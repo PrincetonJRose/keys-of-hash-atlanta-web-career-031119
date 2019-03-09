@@ -8,6 +8,6 @@ class Hash
     end
 
     binding.pry
+    arguments
   end
-  return arguments
 end
