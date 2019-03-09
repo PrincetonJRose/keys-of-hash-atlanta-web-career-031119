@@ -4,7 +4,7 @@ class Hash
     # code goes here
     arguments = *arguments
     if arguments.include?("Panama")
-      return "red-footed tortoise".to_a
+      return ("red-footed tortoise").to_a
     end
     arguments
   end
