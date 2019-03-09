@@ -6,7 +6,7 @@ class Hash
     if arguments.include?("Panama")
       arguments << "red-footed tortoise"
     end
-    
+
     binding.pry
   end
   return arguments
