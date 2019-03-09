@@ -9,4 +9,5 @@ class Hash
     
     binding.pry
   end
+  return arguments
 end
