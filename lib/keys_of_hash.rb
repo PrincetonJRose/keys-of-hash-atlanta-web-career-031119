@@ -4,5 +4,6 @@ class Hash
     # code goes here
 
     arguments
+    binding.pry
   end
 end
